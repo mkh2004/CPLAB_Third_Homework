@@ -1,4 +1,6 @@
-
+*{
+background-color:aqua; !important;
+}
 
 a:hover{
 background-color: yellow; !important
